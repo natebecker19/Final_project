@@ -2,6 +2,8 @@
 **By:** Nate Becker and Allen Solano-Rodriguez\
 **Team Name:** EV
 
+**Dataset:** The [Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data?from_hint=eyJzb3J0IjoicG9wdWxhcml0eSJ9) dataset contains a CSV file of every Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered in the state of Washington.
+
 **Motivation:**
   Electric Vehicles are on the cutting edge of modern transportation, using clean energy. Through this project, we will explore how electric vehicles are being brought into daily life. The data we are using is Electric Vehicle Population Data [1] collected by the Washington State Department of Licensing. We are using Washington State as a small sample that might extend to the entire United States. The data was collected to determine which EV owners are eligible for Clean Alternative Fuel Vehicle rebates and to count and register electric vehicles. This data set can include the type of EV, model and make, and county; summing the data will give us the number of EVs, the range of EVs, and eligibility of EVs for Clean Alternative Fuel Vehicle (CAFV).
 Selected Questions
