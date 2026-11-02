@@ -15,13 +15,15 @@ Selected Questions
 
 sum makes and models and compare them to eachother in a loop\
 **Output/visualization:** list of top three most popular models and most popular makers of EVs
+![Number_of_Vehicles.png](images/Number_of_Vehicles.png)
 
 **Question 2:** Do counties with higher income have more EVs?\
 **Answer for Question 2:** Yes, higher income areas will have more electric vehicles as they tend to cost more money upfront.\
 **Justification/Proof of Concept for Question 2:** The dataset assigns each EV with the country it’s located in, we can find out which counties have the highest numbers of EVs and then use another source of data to find out which counties have the highest income levels. Then by comparing the two sets of data, we can see if there is any correlation between the number of EVs in a county and the level of income the county has.
 
 sum number of county entries to get a number of EVs per county then compare to income in counties\
-**Output/visualization:** bar chart with two bars per county, EVs per capita and income percapita
+**Output/visualization:** bar chart with two bars per county, EVs per capita and income percapita\
+![Number_of_EVs_in_Counties.png](images/Number_of_EVs_in_Counties.png)
 
 **Question 3:** What percent of the EVs are eligible for Clean Alternative Fuel Vehicle rebates from the state of Washington?\
 **Answer for Question 3:** We’ve speculated that 75% of EVs are eligible for CAFV rebates.\
@@ -29,6 +31,7 @@ sum number of county entries to get a number of EVs per county then compare to i
 
 Sum eligibility and divide by total\
 **Output/visualization:** a percentage or a pie chart
+![Pie_Chart.png](images/Pie_Chart.png)
 
 
 **Results:**
