@@ -1,5 +1,16 @@
 """
 A program that answers one of the questions.
+
+Currently WIP, we have to reach the following goals:
+
+1. GitHub Repo contains python code:
+There is a Python code that is related to solving at least one question that is used to answer that question.
+(Instructions on how to use it with the data should be clear)
+
+2. Progress Report in the README.md:
+The file contains all the required information from sub-task 6. Descriptions are clearly understood.
+The solution is complete, and it gives the full answer to the question with all the necessary figures and results.
+Explanations are well thought out. The instructions on how to use the Python code are clearly explained.
 """
 import sys
 import numpy as np
