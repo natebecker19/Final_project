@@ -34,10 +34,12 @@ if __name__ == "__main__":
     print("Electric Vehicle Population Data dataset in the DataFrame form:")
     print(EVPD_DataFrame)
 
+    # code below is to test some python code to learn how to access specific data from this .CSV file
     print(line)
     print(EVPD_DataFrame.iloc[0])
     print(line)
     print(EVPD_DataFrame.loc[0, "Make"])
     print(EVPD_DataFrame.loc[0, "Model"])
 
+    # bottom line for ui purposes
     print(line)
