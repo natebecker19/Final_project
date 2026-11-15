@@ -1,4 +1,6 @@
 """
+A program that answers one of the questions:
+
 Question 1: Which model and make of EV is the most popular?
 Answer for Question 1: EVs manufactured by Tesla.
 Justification/Proof of Concept for Question 1: The dataset contains the make and model of each EV,
@@ -41,7 +43,7 @@ def most_popular_vehicles (dataframe, n = 10):
         .reset_index()
     )
 
-    # adds Rank as a regular column at position 0
+    # adds "Rank" as a regular column at position 0
     most_popular_electric_vehicles.insert(0, "Rank", range(1, len(most_popular_electric_vehicles) + 1))
 
     # for ui purposes
