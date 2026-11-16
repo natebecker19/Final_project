@@ -35,12 +35,15 @@ Sum eligibility and divide by total\
 
 
 **Results:**
+The program when calculating the plot for Question 1 prints the following text when running it:\
+![Question1_Output.png](images/Question1_Output.png)
+
+It also outputs this graph:\
+![Question1_Graph.png](images/Question1_Graph.png)
+
+
+**Conclusions:**\
 tbd
-
-
-**Conclusions:**
-tbd
-
 
 **Actions to be completed:**
 tbd
