@@ -36,14 +36,14 @@ Sum eligibility and divide by total\
 
 **Results:**
 The program when calculating the plot for Question 1 prints the following text when running it:\
-![Question1_Output.png](images/Question1_Output.png)
-
+![Question1_Output.png](images/Question1_Output.png)\
 It also outputs this graph:\
 ![Question1_Graph.png](images/Question1_Graph.png)
 
 
 **Conclusions:**\
-tbd
+As predicted, the most popular Electric Vehicle make in the state of Washington is a Tesla vehicle,\
+with the Tesla Model Y as the most popular model of Tesla vehicles.
 
 **Actions to be completed:**
 tbd
