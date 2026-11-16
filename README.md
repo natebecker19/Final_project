@@ -35,9 +35,12 @@ Sum eligibility and divide by total\
 
 
 **Results:**
-The program when calculating the plot for Question 1 prints the following text when running it:\
+The program when calculating the plot for Question 1 prints* the following text when running it:\
 ![Question1_Output.png](images/Question1_Output.png)\
-It also outputs this graph:\
+*The text seen above is a screenshot taken of the text pasted on the Notepad app on a Windows PC, though the exact contents\
+seen in the Notepad app is identical to what the program printed in Visual Studio Code.
+
+The program also outputs this graph:\
 ![Question1_Graph.png](images/Question1_Graph.png)
 
 
